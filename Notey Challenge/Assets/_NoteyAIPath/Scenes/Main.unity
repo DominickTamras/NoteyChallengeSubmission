@@ -152,7 +152,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6ed6ba56f3659d946a2af5a71c713a2e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  currentData: {fileID: 11400000, guid: 0c9a1193ee899954eb607de32728d9bd, type: 2}
+  pathData: {fileID: 11400000, guid: 972fa98ce94441342a8a8c927862942d, type: 2}
   currentWayPoint: {fileID: 0}
 --- !u!4 &697169242
 Transform:
